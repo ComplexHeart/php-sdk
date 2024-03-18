@@ -1,17 +1,20 @@
 {
   "name": "complex-heart/sdk",
-  "description": "Provide a set of useful classes and tools to ease the adoption of Domain-Driven Design into your PHP project.",
+  "description": "Domain model toolset to properly build Value Objects, Entities, Aggregates and Services.",
   "type": "library",
   "license": "Apache-2.0",
   "authors": [
     {
       "name": "Unay Santisteban",
-      "email": "usantisteban@othercode.es"
+      "email": "usantisteban@othercode.io"
     }
   ],
+  "minimum-stability": "stable",
   "require": {
-    "complex-heart/contracts": "^0.1.0",
-    "complex-heart/domain-model": "^1.0",
-    "complex-heart/criteria": "^1.0"
+    "php": "^8.0.0",
+    "ext-json": "*",
+    "complex-heart/contracts": "^2.0.0",
+    "complex-heart/domain-model": "^3.0.0",
+    "complex-heart/criteria": "^3.0.0"
   }
 }

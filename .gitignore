@@ -1,10 +1,8 @@
 composer.phar
 /vendor/
 .idea/
-/infrastructure/
-/coverage/
+/infrastructure
 *[N|n]o[G|g]it*
-coverage.xml
-test.xml
+*coverage*
 .phpunit.result.cache
 composer.lock
