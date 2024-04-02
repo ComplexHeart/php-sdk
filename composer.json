@@ -11,10 +11,10 @@
   ],
   "minimum-stability": "stable",
   "require": {
-    "php": "^8.0.0",
+    "php": "^8.2",
     "ext-json": "*",
     "complex-heart/contracts": "^2.0.0",
-    "complex-heart/domain-model": "^3.0.0",
-    "complex-heart/criteria": "^3.0.0"
+    "complex-heart/domain-model": "^4.0.0",
+    "complex-heart/criteria": "^4.0.0"
   }
 }
