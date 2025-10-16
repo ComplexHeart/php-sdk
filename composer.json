@@ -1,6 +1,6 @@
 {
   "name": "complex-heart/sdk",
-  "description": "Domain model toolset to properly build Value Objects, Entities, Aggregates and Services.",
+  "description": "SDK for Domain-Driven Design that provides framework-agnostic abstractions, allowing you to focus on business logic.",
   "type": "library",
   "license": "Apache-2.0",
   "authors": [
@@ -13,8 +13,8 @@
   "require": {
     "php": "^8.2",
     "ext-json": "*",
-    "complex-heart/contracts": "^2.0.0",
-    "complex-heart/domain-model": "^4.0.0",
+    "complex-heart/contracts": "^3.0.0",
+    "complex-heart/domain-model": "^5.0.0",
     "complex-heart/criteria": "^4.0.0"
   }
 }
