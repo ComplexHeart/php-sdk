@@ -2,7 +2,7 @@
   "name": "complex-heart/sdk",
   "description": "SDK for Domain-Driven Design that provides framework-agnostic abstractions, allowing you to focus on business logic.",
   "type": "library",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "authors": [
     {
       "name": "Unay Santisteban",

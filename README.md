@@ -1,8 +1,6 @@
 # Complex Heart PHP SDK
 
 [![Test](https://github.com/ComplexHeart/php-sdk/actions/workflows/test.yml/badge.svg)](https://github.com/ComplexHeart/php-sdk/actions/workflows/test.yml)
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
-[![PHP Version](https://img.shields.io/badge/php-%5E8.2-blue)](https://www.php.net/)
 
 An SDK for building Domain-Driven Design (DDD) applications in PHP. This metapackage bundles the essential Complex Heart libraries to provide a complete toolset for implementing DDD patterns with value objects, entities, aggregates, and flexible query criteria.
 
