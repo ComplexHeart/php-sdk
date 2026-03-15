@@ -15,6 +15,7 @@
     "ext-json": "*",
     "complex-heart/contracts": "^3.0.0",
     "complex-heart/domain-model": "^5.0.0",
-    "complex-heart/criteria": "^4.0.0"
+    "complex-heart/criteria": "^4.0.0",
+    "complex-heart/domain-events": "^1.0.0"
   }
 }
