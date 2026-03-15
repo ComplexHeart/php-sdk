@@ -6,3 +6,6 @@ composer.phar
 *coverage*
 .phpunit.result.cache
 composer.lock
+/.claude
+/.serena
+/.omc
